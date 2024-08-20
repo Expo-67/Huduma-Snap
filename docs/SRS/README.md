@@ -1,7 +1,7 @@
 //**_Requirements and planning_**//<br/>
 <ins>Project Name:Huduma-Snap</ins><br/>
 My project idea involves creating a digital solution that replaces
-the physical card, allowing for better record-keeping, easier access, and enhanced diagnostic capabilities.
+the physical card for logging car service, Huduma Snap will provide better record-keeping, easier access, and enhanced diagnostic capabilities.
 Huduma Snap is a web based application.
 Targeted audience are users who own a car.
 Key features of the app:
@@ -18,8 +18,7 @@ Key features of the app:
 // **_Technical Requirements_**//<br/>
 Development Tools: For coding<br/>
 1.IDE:Visual Studio Code<br/>
-2.Tailwind<br/>
-3.Web:HTML/CSS/Javascript(React)<br/>
+2.Web:HTML/CSS/Javascript(React)<br/>
 <ins>Backend Services</ins> - A server to handle data,storage and API services.<br/>
 <ins>Backend Languages</ins>: Node.js<br/>
 Database: MongoDB<br/>
